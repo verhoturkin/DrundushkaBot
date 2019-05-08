@@ -6,7 +6,7 @@
 
     <groupId>ru.drundushka</groupId>
     <artifactId>DrundushkaBot</artifactId>
-    <version>0.1 alpha</version>
+    <version>0.1-alpha</version>
     <build>
         <plugins>
             <plugin>
@@ -27,7 +27,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>DrundushkaBot.BotInitializer</mainClass>
+                            <mainClass>BotInitializer</mainClass>
                             <name>DrundushkaBot</name>
                         </program>
                     </programs>

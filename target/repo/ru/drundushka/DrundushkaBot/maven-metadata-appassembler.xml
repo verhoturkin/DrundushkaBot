@@ -3,10 +3,10 @@
   <groupId>ru.drundushka</groupId>
   <artifactId>DrundushkaBot</artifactId>
   <versioning>
-    <release>0.1 alpha</release>
+    <release>0.1-alpha</release>
     <versions>
-      <version>0.1 alpha</version>
+      <version>0.1-alpha</version>
     </versions>
-    <lastUpdated>20190508221932</lastUpdated>
+    <lastUpdated>20190508224235</lastUpdated>
   </versioning>
 </metadata>
