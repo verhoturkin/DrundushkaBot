@@ -12,6 +12,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.3.2</version>
                 <configuration>
                     <source>8</source>
                     <target>8</target>
@@ -26,7 +27,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>BotInitializer</mainClass>
+                            <mainClass>DrundushkaBot.BotInitializer</mainClass>
                             <name>DrundushkaBot</name>
                         </program>
                     </programs>

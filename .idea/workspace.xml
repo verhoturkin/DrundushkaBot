@@ -3,6 +3,64 @@
   <component name="ChangeListManager">
     <list default="true" id="f1d8383d-e641-4681-a5b8-38762ad77d20" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/DrundushkaBot-0.1 alpha.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/DrundushkaBot-0.1 alpha.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bin/DrundushkaBot" beforeDir="false" afterPath="$PROJECT_DIR$/target/bin/DrundushkaBot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bin/DrundushkaBot.bat" beforeDir="false" afterPath="$PROJECT_DIR$/target/bin/DrundushkaBot.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/aopalliance/aopalliance/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/aopalliance/aopalliance/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-annotations/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-annotations/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-core/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-core/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-databind/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-databind/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/google/code/findbugs/jsr305/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/google/code/findbugs/jsr305/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/google/errorprone/error_prone_annotations/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/google/errorprone/error_prone_annotations/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/google/guava/guava/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/google/guava/guava/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/google/inject/guice/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/google/inject/guice/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/com/google/j2objc/j2objc-annotations/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/google/j2objc/j2objc-annotations/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/commons-codec/commons-codec/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/commons-codec/commons-codec/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/commons-io/commons-io/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/commons-io/commons-io/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/commons-logging/commons-logging/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/commons-logging/commons-logging/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/javax/annotation/javax.annotation-api/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/javax/annotation/javax.annotation-api/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/javax/inject/javax.inject/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/javax/inject/javax.inject/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/javax/validation/validation-api/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/javax/validation/validation-api/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/javax/ws/rs/javax.ws.rs-api/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/javax/ws/rs/javax.ws.rs-api/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpclient/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpclient/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpcore/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpcore/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpmime/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpmime/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-api/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-api/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-core/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-core/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/checkerframework/checker-qual/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/checkerframework/checker-qual/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/codehaus/mojo/animal-sniffer-annotations/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/codehaus/mojo/animal-sniffer-annotations/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-framework/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-framework/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http-server/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http-server/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/aopalliance-repackaged/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/aopalliance-repackaged/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/javax.inject/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/javax.inject/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-api/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-api/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-locator/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-locator/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-utils/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-utils/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/osgi-resource-locator/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/osgi-resource-locator/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/bundles/repackaged/jersey-guava/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/bundles/repackaged/jersey-guava/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/containers/jersey-container-grizzly2-http/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/containers/jersey-container-grizzly2-http/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-client/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-client/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-common/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-common/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-server/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-server/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/ext/jersey-entity-filtering/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/ext/jersey-entity-filtering/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-jaxb/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-jaxb/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-json-jackson/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-json-jackson/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/javassist/javassist/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/javassist/javassist/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/json/json/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/json/json/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots-meta/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots-meta/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambotsextensions/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/org/telegram/telegrambotsextensions/maven-metadata-appassembler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/ru/drundushka/DrundushkaBot/0.1 alpha/DrundushkaBot-0.1 alpha.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/ru/drundushka/DrundushkaBot/0.1 alpha/DrundushkaBot-0.1 alpha.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repo/ru/drundushka/DrundushkaBot/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/ru/drundushka/DrundushkaBot/maven-metadata-appassembler.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,12 +75,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+            <state relative-caret-position="442">
+              <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -30,11 +88,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Bot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="289">
               <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4811#4812#0" expanded="true" />
                 <element signature="e#4850#4851#0" expanded="true" />
+                <element signature="e#5004#5005#0" expanded="true" />
                 <element signature="e#5074#5075#0" expanded="true" />
               </folding>
             </state>
@@ -53,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BotInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="34">
               <caret line="6" column="27" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -108,6 +168,11 @@
           <item name="DrundushkaBot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DrundushkaBot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -125,7 +190,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,6 +205,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,47 +261,48 @@
       <option name="presentableId" value="Default" />
       <updated>1557329308786</updated>
       <workItem from="1557329313776" duration="18273000" />
+      <workItem from="1557353603449" duration="377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18273000" />
+    <option name="totallyTimeSpent" value="18650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
-      <window_info anchor="bottom" id="Java Enterprise" weight="0.32936078" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.32995737" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +322,7 @@
           <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="10.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -281,13 +348,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bot.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
           <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4811#4812#0" expanded="true" />
             <element signature="e#4850#4851#0" expanded="true" />
+            <element signature="e#5004#5005#0" expanded="true" />
             <element signature="e#5074#5075#0" expanded="true" />
           </folding>
         </state>
@@ -300,12 +376,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DrundushkaBot.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BotInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="34">
           <caret line="6" column="27" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -313,12 +386,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/DrundushkaBot.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
