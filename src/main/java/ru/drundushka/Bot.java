@@ -50,7 +50,7 @@ public class Bot extends TelegramLongPollingBot {
      */
 
     public String getBotUsername() {
-        return "@DrundushkaBot";
+        return "";
     }
 
     /**
@@ -60,7 +60,7 @@ public class Bot extends TelegramLongPollingBot {
      */
 
     public String getBotToken() {
-        return "890734954:AAFGZo9QUGIb0upBpPKnFC-dEv3aWvLGpnA";
+        return "";
     }
 }
 

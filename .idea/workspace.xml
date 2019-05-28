@@ -1,122 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf549c08-5f26-4ee3-aaf7-8129a446e592" name="Default Changelist" comment="hello MVC-like">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/drundushka/Bot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/drundushka/controller/BotController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/drundushka/service/KeyboardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/drundushka/service/NonSmokingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrundushkaBot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BotInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/drundushka/BotInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DrundushkaBot-0.1-alpha.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bin/DrundushkaBot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/bin/DrundushkaBot.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Bot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BotInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/aopalliance/aopalliance/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-annotations/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-core/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-databind/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.9.8/jackson-jaxrs-base-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.9.8/jackson-jaxrs-json-provider-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.8/jackson-module-jaxb-annotations-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/code/findbugs/jsr305/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/errorprone/error_prone_annotations/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/guava/guava/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/inject/guice/4.2.2/guice-4.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/inject/guice/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/com/google/j2objc/j2objc-annotations/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/commons-codec/commons-codec/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/commons-io/commons-io/2.5/commons-io-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/commons-io/commons-io/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/commons-logging/commons-logging/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/annotation/javax.annotation-api/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/inject/javax.inject/1/javax.inject-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/inject/javax.inject/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/validation/validation-api/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/javax/ws/rs/javax.ws.rs-api/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpclient/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpcore/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/httpcomponents/httpmime/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-api/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/apache/logging/log4j/log4j-core/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/checkerframework/checker-qual/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/codehaus/mojo/animal-sniffer-annotations/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-framework/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http-server/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/grizzly/grizzly-http/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/aopalliance-repackaged/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/external/javax.inject/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-api/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-locator/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/hk2-utils/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/hk2/osgi-resource-locator/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/bundles/repackaged/jersey-guava/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25.1/jersey-container-grizzly2-http-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/containers/jersey-container-grizzly2-http/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-client/2.25.1/jersey-client-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-client/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-common/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-server/2.25.1/jersey-server-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/core/jersey-server/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/ext/jersey-entity-filtering/2.25.1/jersey-entity-filtering-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/ext/jersey-entity-filtering/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-jaxb/2.25.1/jersey-media-jaxb-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-jaxb/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-json-jackson/2.25.1/jersey-media-json-jackson-2.25.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/glassfish/jersey/media/jersey-media-json-jackson/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/javassist/javassist/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/json/json/20180813/json-20180813.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/json/json/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots-meta/4.2/telegrambots-meta-4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots-meta/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots/4.2/telegrambots-4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambots/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambotsextensions/4.2/telegrambotsextensions-4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/org/telegram/telegrambotsextensions/maven-metadata-appassembler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/ru/drundushka/DrundushkaBot/0.1-alpha/DrundushkaBot-0.1-alpha.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/repo/ru/drundushka/DrundushkaBot/maven-metadata-appassembler.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="bf549c08-5f26-4ee3-aaf7-8129a446e592" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -215,7 +100,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/drundushka/BotInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="408">
               <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
             </state>
           </provider>
@@ -319,6 +204,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.27586207" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -364,7 +253,7 @@
       <updated>1557923740371</updated>
       <workItem from="1557923742862" duration="190000" />
       <workItem from="1559059376820" duration="7718000" />
-      <workItem from="1559067112382" duration="502000" />
+      <workItem from="1559067112382" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <created>1559067053085</created>
@@ -373,15 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559067053085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hello MVC-like">
+      <created>1559067626743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559067626743</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8410000" />
+    <option name="totallyTimeSpent" value="8499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -390,7 +285,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="3" />
@@ -403,7 +298,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" />
       <window_info anchor="right" id="Key Promoter X" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -540,7 +435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/drundushka/BotInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="408">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
         </state>
       </provider>
