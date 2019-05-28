@@ -27,7 +27,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>BotInitializer</mainClass>
+                            <mainClass>ru.drundushka.BotInitializer</mainClass>
                             <name>DrundushkaBot</name>
                         </program>
                     </programs>
